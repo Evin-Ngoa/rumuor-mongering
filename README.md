@@ -1,12 +1,12 @@
-/**
+
  * NAME        : EVINGTONE NGOA MWAILONGO
  * TITLE       : RUMOR MONGERING - FIXED PROBABILITY
  * LANGUAGE    : JAVA
- **/
-# rumuor-mongering
+ 
+# Rumuor Mongering Algorithm
 A Rumuor Mongering Program of fixed Probability in JAVA
 
-##Installation Instructions
+## Installation Instructions
 ____________________________
  i) Open seven consoles in the folder having the files.
 ii) Compile and run the above command respectively in their individual consoles.
